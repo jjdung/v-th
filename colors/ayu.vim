@@ -17,7 +17,7 @@ let s:palette = {}
 "mirage fg default is #D9D7CE
 let s:palette.bg        = {'dark': "#0F1419",  'light': "#FAFAFA",  'mirage': "#000000"}
 
-let s:palette.comment   = {'dark': "#5C6773",  'light': "#ABB0B6",  'mirage': "#5C6773"}
+let s:palette.comment   = {'dark': "#D75FFF",  'light': "#D75FFF",  'mirage': "#D75FFF"}
 let s:palette.markup    = {'dark': "#F07178",  'light': "#F07178",  'mirage': "#F07178"}
 let s:palette.constant  = {'dark': "#FFEE99",  'light': "#A37ACC",  'mirage': "#D4BFFF"}
 let s:palette.operator  = {'dark': "#E7C547",  'light': "#E7C547",  'mirage': "#80D4FF"}
